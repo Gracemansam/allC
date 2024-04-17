@@ -1,0 +1,7 @@
+sbp-plugin:
+  plugin-first-classes:
+    - org.pf4j.Plugin.*
+    - org.laxture.sbp.SpringBootPlugin.*
+    - com.sampleplugin.AdminPlugin
+  plugin-only-resources:
+    - plugin_only
